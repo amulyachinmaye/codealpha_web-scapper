@@ -35,5 +35,3 @@ A file named `books.csv` containing data like:
 - No extra libraries or login required
 
 ---
-
-✅ **Great for beginner data analysts and interns looking to showcase scraping skills!**
